@@ -1,0 +1,24 @@
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+.img1{
+    width: 650px;
+    height: 350px;
+}
+.img2{
+    width: 450px;
+    height: 350px;
+    border-radius: 300px;
+}
+.img3{
+    width: 450px;
+    height: 350px;
+    border-radius: 300px;
+
+    }
+    .img4{
+        width: 650px;
+        height: 350px;
+        
+        }

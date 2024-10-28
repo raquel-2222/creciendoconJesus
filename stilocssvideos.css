@@ -1,0 +1,98 @@
+body{
+    background-image: url(fondo\ de\ historias.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.navbar{
+    width: 90%;
+    padding: 30px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 20px;
+}
+    .navbar ul li a{
+        text-decoration: none;
+        text-transform: uppercase;
+        color: rgb(255, 255, 255);
+        font-weight: 600;
+        padding: 15px;
+    }
+
+    li a:hover{
+        background: rgb(144, 176, 212);
+        transition: 0.5s;
+
+    }
+.video1{
+    margin-right: 35px;
+    width: 350px;
+    height: 250px;
+    border-radius: 10px;
+
+}
+
+.video2{
+    margin-right: 35px;
+
+    width: 350px;
+    height: 250px;
+    border-radius: 10px;
+}
+
+.video3{
+    margin-right: 35px;
+
+    width: 350px;
+    height: 250px;
+    border-radius: 10px;
+}
+
+.video4{
+    margin-right: 35px;
+
+    width: 350px;
+    height: 250px;
+    border-radius: 10px;
+}
+
+.video5{
+    margin-right: 35px;
+
+    width: 350px;
+    height: 250px;
+    border-radius: 10px;
+}
+
+.video6{
+    margin-right: 35px;
+
+    width: 350px;
+    height: 250px;
+    border-radius: 10px;
+}
+
+.video7{
+    margin-right: 35px;
+
+    width: 350px;
+    height: 250px;
+    border-radius: 10px;
+}
+
+.video8{
+    margin-right: 35px;
+
+    width: 350px;
+    height: 250px;
+    border-radius: 10px;
+}
